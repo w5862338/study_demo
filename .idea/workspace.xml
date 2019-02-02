@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/kafka_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,14 +58,14 @@
           <entry key="dummy" value="7" />
           <entry key="java" value="1336" />
           <entry key="properties" value="9" />
-          <entry key="txt" value="32" />
+          <entry key="txt" value="46" />
           <entry key="xml" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1336" />
-          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="106" />
         </counts>
@@ -125,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="108">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1141#1157#0" expanded="true" />
@@ -244,8 +231,8 @@
         <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProduce.java" />
         <option value="$PROJECT_DIR$/kafka_demo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java" />
-        <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" />
         <option value="$PROJECT_DIR$/kafka_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" />
       </list>
     </option>
   </component>
@@ -346,7 +333,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548938514219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549090291981" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -429,7 +416,7 @@
       <workItem from="1548156221520" duration="44000" />
       <workItem from="1548397972984" duration="8784000" />
       <workItem from="1548659265720" duration="559000" />
-      <workItem from="1548901985620" duration="5956000" />
+      <workItem from="1548901985620" duration="11996000" />
     </task>
     <task id="LOCAL-00001" summary="增加kafka Producer 代码">
       <created>1548406624774</created>
@@ -438,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548406624774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改jar 版本">
+      <created>1548938650115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548938650115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20340000" />
+    <option name="totallyTimeSpent" value="26380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -457,14 +451,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4723727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5980498" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4569055" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30552545" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -518,7 +512,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加kafka Producer 代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加kafka Producer 代码" />
+    <MESSAGE value="修改jar 版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改jar 版本" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/KafkaDemoApplication.java">
@@ -613,8 +608,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="108">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1141#1157#0" expanded="true" />

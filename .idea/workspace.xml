@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/kafka_demo/target/" />
     <ignored path="$PROJECT_DIR$/Concurrent_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,14 +60,14 @@
           <entry key="dummy" value="7" />
           <entry key="java" value="2734" />
           <entry key="properties" value="9" />
-          <entry key="txt" value="59" />
+          <entry key="txt" value="83" />
           <entry key="xml" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2734" />
-          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="PLAIN_TEXT" value="90" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="106" />
         </counts>
@@ -294,7 +265,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551856720933" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551859568389" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DLG/dlg-dqc" />
@@ -433,7 +404,7 @@
       <workItem from="1548901985620" duration="13526000" />
       <workItem from="1549959966218" duration="1162000" />
       <workItem from="1551670094888" duration="6466000" />
-      <workItem from="1551783897924" duration="2101000" />
+      <workItem from="1551783897924" duration="2757000" />
     </task>
     <task id="LOCAL-00001" summary="增加kafka Producer 代码">
       <created>1548406624774</created>
@@ -456,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549099457558</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加Concurrent demo">
+      <created>1551859020923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551859020923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37639000" />
+    <option name="totallyTimeSpent" value="38295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,7 +452,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -491,7 +469,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3811007" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3811007" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32917964" />
@@ -547,7 +525,8 @@
     <MESSAGE value="增加kafka Producer 代码" />
     <MESSAGE value="修改jar 版本" />
     <MESSAGE value="修改host 后能跑通了" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改host 后能跑通了" />
+    <MESSAGE value="增加Concurrent demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加Concurrent demo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kafka_demo/pom.xml">

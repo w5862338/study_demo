@@ -2,9 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/kafka_demo/target/" />
+    <ignored path="$PROJECT_DIR$/Concurrent_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,24 +50,27 @@
     <session id="-77465060">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.774" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
           <entry key="cmd" value="1" />
-          <entry key="java" value="5" />
+          <entry key="java" value="13" />
           <entry key="mvnw" value="1" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
-          <entry key="资料" value="1" />
+          <entry key="资料" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -47,8 +78,8 @@
           <entry key="Bash" value="1" />
           <entry key="CLASS" value="4" />
           <entry key="Cmd" value="1" />
-          <entry key="JAVA" value="5" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -56,16 +87,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="1336" />
+          <entry key="java" value="2734" />
           <entry key="properties" value="9" />
-          <entry key="txt" value="46" />
+          <entry key="txt" value="59" />
           <entry key="xml" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1336" />
-          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="JAVA" value="2734" />
+          <entry key="PLAIN_TEXT" value="66" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="106" />
         </counts>
@@ -75,33 +106,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+            <state relative-caret-position="162">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/KafkaDemoApplication.java">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="621">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/SpringKafkaConsumer.java">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="513">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,96 +148,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1141#1157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="331">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/1.0.0/kafka-clients-1.0.0-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3942">
-              <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
-              <folding>
-                <element signature="e#6775#6776#0" expanded="true" />
-                <element signature="e#6804#6805#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0.jar!/org/apache/kafka/clients/producer/ProducerRecord.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kafka_demo/docs/资料">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.3.RELEASE/spring-kafka-2.2.3.RELEASE.jar!/org/springframework/kafka/annotation/KafkaListener.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.3.RELEASE/spring-kafka-2.2.3.RELEASE.jar!/org/springframework/kafka/annotation/EnableKafka.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/mvnw">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka_demo/mvnw.cmd">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -233,6 +194,12 @@
         <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java" />
         <option value="$PROJECT_DIR$/kafka_demo/pom.xml" />
         <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatch.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" />
       </list>
     </option>
   </component>
@@ -250,10 +217,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -261,8 +231,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,31 +244,25 @@
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrent_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrent_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrent_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrent_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -305,19 +270,16 @@
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrent_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="study_demo" type="462c0819:PsiDirectoryNode" />
               <item name="kafka_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study_demo" type="b2602c69:ProjectViewProjectNode" />
@@ -327,16 +289,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549090291981" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551856720933" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DLG/dlg-dqc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -356,13 +317,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrgKafkaProducer">
-    <configuration name="OrgKafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kafka_demo.OrgKafkaConsumer" />
-      <module name="kafka_demo" />
+  <component name="RunManager" selected="Application.CountDownLatchDemo">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.CountDownLatchDemo" />
+      <module name="Concurrent_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.kafka_demo.*" />
+          <option name="PATTERN" value="concurrent_demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,15 +331,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrgKafkaProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kafka_demo.OrgKafkaProducer" />
-      <module name="kafka_demo" />
+    <configuration name="FairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.FairLock" />
+      <module name="Concurrent_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.kafka_demo.*" />
+          <option name="PATTERN" value="concurrent_demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReentrantLock_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.ReentrantLock_demo" />
+      <module name="Concurrent_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.SemapDemo" />
+      <module name="Concurrent_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.TimeLock" />
+      <module name="Concurrent_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrentDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Concurrent_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="concurrent_demo.ConcurrentDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -392,13 +399,20 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.KafkaDemoApplication" />
-      <item itemvalue="Application.OrgKafkaProducer" />
-      <item itemvalue="Application.OrgKafkaConsumer" />
+      <item itemvalue="Spring Boot.ConcurrentDemoApplication" />
+      <item itemvalue="Application.ReentrantLock_demo" />
+      <item itemvalue="Application.TimeLock" />
+      <item itemvalue="Application.FairLock" />
+      <item itemvalue="Application.SemapDemo" />
+      <item itemvalue="Application.CountDownLatchDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrgKafkaProducer" />
-        <item itemvalue="Application.OrgKafkaConsumer" />
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.SemapDemo" />
+        <item itemvalue="Application.FairLock" />
+        <item itemvalue="Application.ReentrantLock_demo" />
+        <item itemvalue="Application.TimeLock" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +430,10 @@
       <workItem from="1548156221520" duration="44000" />
       <workItem from="1548397972984" duration="8784000" />
       <workItem from="1548659265720" duration="559000" />
-      <workItem from="1548901985620" duration="11996000" />
+      <workItem from="1548901985620" duration="13526000" />
+      <workItem from="1549959966218" duration="1162000" />
+      <workItem from="1551670094888" duration="6466000" />
+      <workItem from="1551783897924" duration="2101000" />
     </task>
     <task id="LOCAL-00001" summary="增加kafka Producer 代码">
       <created>1548406624774</created>
@@ -432,16 +449,32 @@
       <option name="project" value="LOCAL" />
       <updated>1548938650115</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改host 后能跑通了">
+      <created>1549099457558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549099457558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26380000" />
+    <option name="totallyTimeSpent" value="37639000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -451,20 +484,20 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5980498" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3997923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32917964" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30552545" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3811007" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32917964" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.50595886" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.5057113" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -513,18 +546,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加kafka Producer 代码" />
     <MESSAGE value="修改jar 版本" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改jar 版本" />
+    <MESSAGE value="修改host 后能跑通了" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改host 后能跑通了" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kafka_demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/KafkaDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,9 +568,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -542,10 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3942">
           <caret line="175" column="16" selection-start-line="175" selection-start-column="16" selection-end-line="175" selection-end-column="16" />
-          <folding>
-            <element signature="e#6775#6776#0" expanded="true" />
-            <element signature="e#6804#6805#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,9 +591,6 @@
           <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_demo/docs/资料">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.2.3.RELEASE/spring-kafka-2.2.3.RELEASE.jar!/org/springframework/kafka/annotation/KafkaListener.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -589,30 +622,66 @@
     <entry file="file://$PROJECT_DIR$/kafka_demo/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaConsumer.java">
+    <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="459">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ConcurrentDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_demo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java">
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="621">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1141#1157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka_demo/docs/资料">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

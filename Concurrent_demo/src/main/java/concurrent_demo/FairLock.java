@@ -4,6 +4,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @author wangxiang w00448499 2019/3/4 15:37
+ * 《实战Java高并发程序设计》 公平锁
  */
 public class FairLock implements Runnable {
     public static ReentrantLock fairLock =new ReentrantLock(true);

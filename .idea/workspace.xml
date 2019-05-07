@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="" />
+    <list default="true" id="aed8e38b-2ac8-4516-8218-fd94eb57f33c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/kafka_demo/target/" />
     <ignored path="$PROJECT_DIR$/Concurrent_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +26,7 @@
     <session id="-77465060">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -37,7 +42,8 @@
         <counts>
           <entry key="class" value="4" />
           <entry key="cmd" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="15" />
+          <entry key="md" value="1" />
           <entry key="mvnw" value="1" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
@@ -49,7 +55,8 @@
           <entry key="Bash" value="1" />
           <entry key="CLASS" value="4" />
           <entry key="Cmd" value="1" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="15" />
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
@@ -58,7 +65,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="2734" />
+          <entry key="java" value="2950" />
           <entry key="properties" value="9" />
           <entry key="txt" value="83" />
           <entry key="xml" value="106" />
@@ -66,7 +73,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2734" />
+          <entry key="JAVA" value="2950" />
           <entry key="PLAIN_TEXT" value="90" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="106" />
@@ -80,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="162">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -109,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
+            <state relative-caret-position="486">
               <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -119,10 +126,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ThreadPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="19" selection-start-line="19" selection-end-line="20" />
+            <state relative-caret-position="243">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ConcurrentDemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,11 +207,12 @@
         <option value="$PROJECT_DIR$/kafka_demo/pom.xml" />
         <option value="$PROJECT_DIR$/kafka_demo/src/main/java/com/example/kafka_demo/OrgKafkaProducer.java" />
         <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java" />
-        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" />
         <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java" />
         <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java" />
         <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatch.java" />
         <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java" />
+        <option value="$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ThreadPoolDemo.java" />
       </list>
     </option>
   </component>
@@ -188,10 +230,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -265,10 +307,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551859568389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551929787658" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DLG/dlg-dqc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -288,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountDownLatchDemo">
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
     <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrent_demo.CountDownLatchDemo" />
       <module name="Concurrent_demo" />
@@ -341,8 +383,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent_demo.TimeLock" />
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent_demo.ThreadPoolDemo" />
       <module name="Concurrent_demo" />
       <extension name="coverage">
         <pattern>
@@ -372,18 +414,18 @@
       <item itemvalue="Spring Boot.KafkaDemoApplication" />
       <item itemvalue="Spring Boot.ConcurrentDemoApplication" />
       <item itemvalue="Application.ReentrantLock_demo" />
-      <item itemvalue="Application.TimeLock" />
       <item itemvalue="Application.FairLock" />
       <item itemvalue="Application.SemapDemo" />
       <item itemvalue="Application.CountDownLatchDemo" />
+      <item itemvalue="Application.ThreadPoolDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPoolDemo" />
         <item itemvalue="Application.CountDownLatchDemo" />
         <item itemvalue="Application.SemapDemo" />
         <item itemvalue="Application.FairLock" />
         <item itemvalue="Application.ReentrantLock_demo" />
-        <item itemvalue="Application.TimeLock" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +446,7 @@
       <workItem from="1548901985620" duration="13526000" />
       <workItem from="1549959966218" duration="1162000" />
       <workItem from="1551670094888" duration="6466000" />
-      <workItem from="1551783897924" duration="2757000" />
+      <workItem from="1551783897924" duration="6438000" />
     </task>
     <task id="LOCAL-00001" summary="增加kafka Producer 代码">
       <created>1548406624774</created>
@@ -438,7 +480,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38295000" />
+    <option name="totallyTimeSpent" value="41976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,6 +493,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -469,12 +512,12 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
       <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3811007" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3811007" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32917964" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.5057113" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.31879544" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -608,23 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ConcurrentDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/TimeLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -635,19 +661,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kafka_demo/docs/资料">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ConcurrentDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ReentrantLock_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/FairLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/SemapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
+        <state relative-caret-position="486">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -655,10 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/CountDownLatchDemo.java">
+    <entry file="file://$PROJECT_DIR$/Concurrent_demo/src/main/java/concurrent_demo/ThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="19" selection-start-line="19" selection-end-line="20" />
+        <state relative-caret-position="565">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

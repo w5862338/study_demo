@@ -7,6 +7,7 @@ import java.util.concurrent.Executors;
 
 /**
  * @author wangxiang w00448499 2019/3/5 19:07
+ * 《实战Java高并发程序设计》倒计时器 p87
  */
 public class CountDownLatchDemo implements Runnable {
     static final CountDownLatch end = new CountDownLatch(10);

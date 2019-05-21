@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Concurrent_demo" />
+        <module name="demo" />
         <module name="kafka_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Concurrent_demo" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="kafka_demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
